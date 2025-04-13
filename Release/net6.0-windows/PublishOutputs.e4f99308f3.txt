@@ -1,0 +1,5 @@
+C:\Users\itaik\Downloads\GraphicsTest.exe
+C:\Users\itaik\Downloads\GraphicsTest.dll
+C:\Users\itaik\Downloads\GraphicsTest.deps.json
+C:\Users\itaik\Downloads\GraphicsTest.runtimeconfig.json
+C:\Users\itaik\Downloads\GraphicsTest.pdb

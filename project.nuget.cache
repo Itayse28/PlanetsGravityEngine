@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rtac57xZN1Yu1y9y54mu9sdOt4UT7FDky2sYEeszH57R/ka/CosLWo6bcWDVdFaE0kfVcLsEUQUUfCa/68zhKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itaik\\source\\repos\\AstroTest\\GraphicsTest\\AstroTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itaik\\.nuget\\packages\\managedcuda\\10.0.0\\managedcuda.10.0.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

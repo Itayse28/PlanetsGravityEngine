@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTiflQC0xbQWGKBWQjORB61DjrrguJv87Zf6qRyw34/J8HL1BK/+MEG+FE15mqmLPeQZt18Y4ZJ8yJ34zJjgFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itaik\\source\\repos\\AstroTest\\GraphicsTest\\AstroTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itaik\\.nuget\\packages\\managedcuda\\10.0.0\\managedcuda.10.0.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.9\\microsoft.netcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x86.6.0.9.nupkg.sha512",
+    "C:\\Users\\itaik\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

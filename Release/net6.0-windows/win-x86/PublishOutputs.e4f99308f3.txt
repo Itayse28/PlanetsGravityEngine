@@ -1,0 +1,7 @@
+C:\Users\itaik\Downloads\AstroTest.pdb
+C:\Users\itaik\Downloads\D3DCompiler_47_cor3.dll
+C:\Users\itaik\Downloads\PenImc_cor3.dll
+C:\Users\itaik\Downloads\PresentationNative_cor3.dll
+C:\Users\itaik\Downloads\vcruntime140_cor3.dll
+C:\Users\itaik\Downloads\wpfgfx_cor3.dll
+C:\Users\itaik\Downloads\AstroTest.exe

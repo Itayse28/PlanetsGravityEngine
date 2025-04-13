@@ -1,0 +1,57 @@
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.exe
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.deps.json
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.runtimeconfig.json
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.dll
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.pdb
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.AssemblyReference.cache
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.Form1.resources
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.GenerateResource.cache
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.AssemblyInfoInputs.cache
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.AssemblyInfo.cs
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.CoreCompileInputs.cache
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.dll
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\refint\GraphicsTest.dll
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.pdb
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.genruntimeconfig.cache
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\ref\GraphicsTest.dll
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\bin\Release\net6.0-windows\ManagedCuda.dll
+C:\Users\itaik\source\repos\GraphicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.CopyComplete
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.exe
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.deps.json
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.runtimeconfig.json
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.dll
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.pdb
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\bin\Release\net6.0-windows\ManagedCuda.dll
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.AssemblyReference.cache
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.Form1.resources
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.GenerateResource.cache
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.AssemblyInfoInputs.cache
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.AssemblyInfo.cs
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.CoreCompileInputs.cache
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.CopyComplete
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.dll
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\refint\GraphicsTest.dll
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.pdb
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.genruntimeconfig.cache
+C:\Users\itaik\source\repos\‏‏GraphicsTest - עותק\GraphicsTest\obj\Release\net6.0-windows\ref\GraphicsTest.dll
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.exe
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.deps.json
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.runtimeconfig.json
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.dll
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\bin\Release\net6.0-windows\GraphicsTest.pdb
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\bin\Release\net6.0-windows\ManagedCuda.dll
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.AssemblyReference.cache
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.Form1.resources
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.GenerateResource.cache
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.AssemblyInfoInputs.cache
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.AssemblyInfo.cs
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.CoreCompileInputs.cache
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.csproj.CopyComplete
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.dll
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\refint\GraphicsTest.dll
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.pdb
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\GraphicsTest.genruntimeconfig.cache
+C:\Users\itaik\source\repos\PhysicsTest\GraphicsTest\obj\Release\net6.0-windows\ref\GraphicsTest.dll
